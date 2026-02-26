@@ -18,14 +18,14 @@ Nosso foco é transformar um processo sensível e cheio de etapas em uma experi�
 ## Estatísticas
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/CertyBR/certy.com.br?style=for-the-badge&logo=github&label=Stars" alt="stars" />
   <img src="https://img.shields.io/github/forks/CertyBR/certy.com.br?style=for-the-badge&logo=github&label=Forks" alt="forks" />
   <img src="https://img.shields.io/github/issues/CertyBR/certy.com.br?style=for-the-badge&logo=github&label=Issues" alt="issues" />
+  <img src="https://img.shields.io/github/issues-pr/CertyBR/certy.com.br?style=for-the-badge&logo=github&label=PRs" alt="prs" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/CertyBR/certy.com.br?style=for-the-badge&logo=git&label=Last%20Commit" alt="last commit" />
-  <img src="https://img.shields.io/github/license/CertyBR/certy.com.br?style=for-the-badge&label=License" alt="license" />
+  <img src="https://img.shields.io/github/repo-size/CertyBR/certy.com.br?style=for-the-badge&logo=github&label=Repo%20Size" alt="repo size" />
+  <img src="https://img.shields.io/github/contributors/CertyBR/certy.com.br?style=for-the-badge&logo=github&label=Contributors" alt="contributors" />
   <img src="https://img.shields.io/github/followers/CertyBR?style=for-the-badge&logo=github&label=Followers" alt="followers" />
 </p>
 
