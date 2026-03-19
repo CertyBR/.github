@@ -2,7 +2,7 @@
   <img src="https://certy.zerocert.com.br/logo.svg" alt="Certy" width="180" />
 </p>
 
-# Certy
+# Certy [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/2htr2.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 O **Certy** é um projeto para simplificar a emissão de certificados TLS/SSL e tornar a adoção de HTTPS mais acessível para times e pessoas desenvolvedoras.
 
